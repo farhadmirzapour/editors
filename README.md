@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist tikaeditors/editors "dev-master"
+php composer.phar require --prefer-dist tikaeditors/editors "v1.0"
 ```
 
 or add
 
 ```
-"tikaeditors/editors": "dev-master"
+"tikaeditors/editors": "v1.0"
 ```
 
 to the require section of your `composer.json` file.
