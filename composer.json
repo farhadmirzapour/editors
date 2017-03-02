@@ -9,13 +9,5 @@
             "name": "Farhad Mirzapour",
             "email": "farhad.mirzapour@gmail.com"
         }
-    ],
-    "require": {
-        "yiisoft/yii2": "*"
-    },
-    "autoload": {
-        "psr-4": {
-            "tikaeditors\\editors\\": ""
-        }
-    }
+    ]
 }
