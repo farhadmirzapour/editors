@@ -1,0 +1,21 @@
+{
+    "name": "tikaeditors/editors",
+    "description": "Editors for Yii2 Framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","editors","fckeditor","ckeditor"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Farhad Mirzapour",
+            "email": "farhad.mirzapour@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "tikaeditors\\editors\\": ""
+        }
+    }
+}
